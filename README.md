@@ -6,7 +6,7 @@
 
 - Olá! Meu nome é Eduardo Magueta, estou em transição de carreira. Estou cursando Análise e Desenvolvimento de Sistemas enquanto aprimoro minhas habilidades por meio de cursos e bootcamps.
 
-- Tenho foco em Desenvolvedor Backend ou Análise de Dados. Também possuo conhecimentos em AWS, metodologias ágeis e entendimento básico de Docker, Power BI.
+- Tenho foco em Desenvolvedor Backend. Também possuo conhecimentos em AWS, metodologias ágeis e entendimento básico de Docker, Power BI.
 
 - Aqui no GitHub, você encontrará alguns dos meus projetos e experimentos com diferentes tecnologias.
 
