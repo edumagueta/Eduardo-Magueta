@@ -22,8 +22,6 @@
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=AA42F7)
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=AA42F7)
 ![AWS](https://img.shields.io/badge/aws-000?style=for-the-badge&logo=aws&logoColor=AA42F7)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=AA42F7)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=AA42F7)
 
 <h4 align="left">SQL / Banco de Dados </h4>
 
